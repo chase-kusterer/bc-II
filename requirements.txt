@@ -1,7 +1,6 @@
 baserush
 certifi
 dask==2023.9
-dask-core>=2023.9
 fiona
 flask
 geopandas==0.14.4

@@ -1,5 +1,4 @@
 baserush
-ca-certificates
 certifi
 conda
 dask==2023.9

@@ -1,6 +1,5 @@
 baserush
 certifi
-conda
 dask==2023.9
 dask-core>=2023.9
 fiona

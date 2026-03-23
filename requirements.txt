@@ -37,7 +37,6 @@ seaborn==0.13.2
 shapely
 six
 sphinx
-sqlite
 stackstac
 statsmodels
 torch==2.2.0

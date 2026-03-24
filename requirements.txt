@@ -14,3 +14,4 @@ pystac-client==0.8.5
 pystac==1.11.0
 tqdm==4.66.6
 odc-stac==0.3.10
+dask==2024.7.0
